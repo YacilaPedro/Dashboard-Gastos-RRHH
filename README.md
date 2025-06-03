@@ -1,27 +1,31 @@
-# Dashboard-Gastos-RRHH
-📌 README para GitHub – Análisis de Gastos del Área de Recursos Humanos
-📘 Introducción
-Este proyecto tiene como finalidad analizar y visualizar los gastos del área de Recursos Humanos a través de un dashboard interactivo elaborado en Power BI. A partir de una base de datos estructurada en Excel, se realiza un desglose del presupuesto asignado, los gastos ejecutados, y el saldo restante. La visualización permite comprender cómo se distribuyen los recursos a lo largo del tiempo y en las distintas categorías, facilitando la toma de decisiones y la identificación de áreas con mayores niveles de ejecución presupuestaria.
+# Dashboard de Gastos - Recursos Humanos
 
-🎯 Objetivos
-Analizar el total del presupuesto asignado al área de Recursos Humanos.
+Este proyecto consiste en un dashboard interactivo desarrollado en Power BI que permite visualizar el estado de los gastos del área de Recursos Humanos a partir de datos simulados.
 
-Evaluar el porcentaje de gasto ejecutado y el saldo disponible.
+## 📌 Objetivo
+Monitorear y analizar la ejecución presupuestaria, identificar áreas con mayores gastos y facilitar la toma de decisiones administrativas.
 
-Identificar las categorías con mayor y menor gasto.
+## 🛠 Herramientas Utilizadas
+- Power BI
+- Excel (fuente de datos)
+- Gráficos de barras, KPIs, segmentadores
 
-Visualizar la evolución del gasto por mes, trimestre y semestre.
+## 📁 Estructura
+- data/: Base de datos simulada en Excel.
+- dashboard/: Archivo .pbix del dashboard.
+- images/: Capturas del informe visual.
 
-Facilitar la toma de decisiones basada en datos mediante visualizaciones claras y precisas.
+## 🚀 Cómo usar
+1. Abre el archivo .pbix con Power BI Desktop.
+2. Asegúrate de que el archivo Excel esté en la misma carpeta (o reconfigura la fuente de datos).
+3. Navega por las páginas del dashboard para interactuar con los gráficos.
 
-📈 Conclusiones
-El 76.6% del presupuesto total fue ejecutado, quedando un saldo de 145,350 unidades monetarias.
+## 🧠 ¿Qué aprendí?
+- Integración de datos entre Excel y Power BI.
+- Diseño visual e intuitivo para informes gerenciales.
+- Cálculo de indicadores clave como ejecución presupuestal, saldo, % de avance.
+- Creación de segmentadores por área y tipo de gasto.
 
-La categoría "Sueldo Base" representó el mayor gasto, superando los 273 mil, lo que representa 78.1% de su presupuesto.
-
-El trimestre 1 (T1) presentó el mayor nivel de gasto acumulado, seguido del trimestre 2 (T2).
-
-Las categorías como Capacitación, Seguro, y Materiales de Oficina presentan niveles bajos de ejecución, lo que puede representar oportunidades de optimización o reestructuración presupuestaria.
-
-El dashboard permite identificar visualmente patrones de gasto, lo cual es clave para futuras planificaciones presupuestales.
+## 📈 Resultados
+Se logra una vista clara del presupuesto ejecutado vs. planificado, y permite filtrar por áreas específicas como Selección, Nómina o Capacitación.
 
